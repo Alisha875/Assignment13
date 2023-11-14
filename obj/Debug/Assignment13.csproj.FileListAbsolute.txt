@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\Day-7\Assignment13\Assignment13\bin\Debug\Assignment13.exe.config
+C:\Users\alish\Desktop\Mphasis\Day-7\Assignment13\Assignment13\bin\Debug\Assignment13.exe
+C:\Users\alish\Desktop\Mphasis\Day-7\Assignment13\Assignment13\bin\Debug\Assignment13.pdb
+C:\Users\alish\Desktop\Mphasis\Day-7\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Day-7\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Day-7\Assignment13\Assignment13\obj\Debug\Assignment13.exe
+C:\Users\alish\Desktop\Mphasis\Day-7\Assignment13\Assignment13\obj\Debug\Assignment13.pdb
